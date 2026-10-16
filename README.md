@@ -17,6 +17,20 @@ This project analyzes retail sales data using Python to understand revenue trend
 - Highest-revenue category: Electronics (156,905)
 - Lowest-revenue category: Beauty (143,515)
 
+## Visualizations
+
+### 1. Monthly Revenue
+
+![Monthly Revenue](results/monthly_revenue.png)
+
+### 2. Revenue by Product Category
+
+![Revenue by Category](results/revenue_by_category.png)
+
+### 3. Revenue by Customer Gender
+
+![Revenue by Gender](results/revenue_by_gender.png)
+
 ## Project Files
 
 - `main.py`: Main analysis code
