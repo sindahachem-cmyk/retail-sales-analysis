@@ -31,6 +31,16 @@ This project analyzes retail sales data using Python to understand revenue trend
 
 ![Revenue by Gender](results/revenue_by_gender.png)
 
+## Business Insights
+
+- **Top-performing category:** Electronics generated the highest revenue, with 156,905.
+- **Lowest-revenue category:** Beauty generated 143,515.
+- **Customer spending:** Female customers generated 232,840 in revenue, compared with 223,160 for male customers.
+- **Overall performance:** The dataset contains 1,000 transactions and total revenue of 456,000.
+- **Recommendation:** The business could investigate which products drive Electronics sales and explore ways to improve Beauty category revenue.
+
+*Note: These insights describe the available dataset and do not necessarily represent the performance of a real business.*
+
 ## Project Files
 
 - `main.py`: Main analysis code
